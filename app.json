@@ -1,13 +1,13 @@
 {
-      "name": "INNEXIA BOT",
-      "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/de658f39cd9e7d1a4c9af.jpg",
+      "name": "ToM BOT",
+      "description": "Super Group Management Bot.",
+      "logo": "https://telegra.ph/file/30eb26de66c588dc106f3.jpg",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "yone"
+         "Tom"
       ],   
    "repository": "https://t.me/innexiaBot",
    "addons": [
